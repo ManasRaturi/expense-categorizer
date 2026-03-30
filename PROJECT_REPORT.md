@@ -1,10 +1,8 @@
 # Project Report — Expense Auto-Categorizer
 
-**Course:** Machine Learning / AI  
 **Student:** Manas Raturi  
-**Roll No:** 25BAS10041  
+**Registration No:** 25BAS10041  
 **Institution:** VIT Bhopal University  
-**Date:** March 2026
 
 ---
 
