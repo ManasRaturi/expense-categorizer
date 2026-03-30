@@ -1,0 +1,51 @@
+date,description,amount,category,confidence,emoji
+2026-03-01,Swiggy biryani order,280,Food & Dining,51.0,🍔
+2026-03-01,Uber ride to college,95,Transport,48.0,🚗
+2026-03-02,Amazon earphones,1299,Entertainment,27.3,🎬
+2026-03-02,Netflix monthly plan,499,Entertainment,38.9,🎬
+2026-03-03,Pharmacy paracetamol,45,Health,56.6,💊
+2026-03-03,Jio prepaid recharge,239,Utilities & Bills,67.1,💡
+2026-03-04,Dominos pizza night,450,Food & Dining,64.6,🍔
+2026-03-04,BookMyShow movie ticket,320,Entertainment,78.7,🎬
+2026-03-05,Udemy Python course,399,Education,70.3,📚
+2026-03-05,Petrol refill,500,Transport,48.8,🚗
+2026-03-06,Zomato lunch delivery,180,Food & Dining,60.3,🍔
+2026-03-06,OYO room weekend stay,1200,Travel & Stays,83.5,✈️
+2026-03-07,Myntra shirt purchase,799,Shopping,72.2,🛍️
+2026-03-07,Cult.fit gym session,600,Health,69.4,💊
+2026-03-08,BigBasket groceries,1100,Food & Dining,65.7,🍔
+2026-03-08,Metro card top-up,200,Transport,42.0,🚗
+2026-03-09,Electricity bill payment,850,Utilities & Bills,68.3,💡
+2026-03-09,Starbucks coffee,350,Food & Dining,50.0,🍔
+2026-03-10,Flipkart earbuds,999,Shopping,28.3,🛍️
+2026-03-10,Doctor consultation fee,300,Health,53.0,💊
+2026-03-11,Rapido bike ride,55,Transport,67.7,🚗
+2026-03-11,Coursera certificate,2999,Education,48.9,📚
+2026-03-12,KFC family bucket,700,Food & Dining,37.0,🍔
+2026-03-12,Spotify premium,119,Entertainment,67.3,🎬
+2026-03-13,Bus pass renewal,150,Transport,45.2,🚗
+2026-03-13,1mg medicine order,220,Health,47.1,💊
+2026-03-14,MakeMyTrip hotel booking,3500,Travel & Stays,78.0,✈️
+2026-03-14,Airtel postpaid bill,399,Utilities & Bills,79.8,💡
+2026-03-15,Nykaa skincare order,650,Shopping,54.3,🛍️
+2026-03-15,Zara outfit mall,2200,Shopping,72.1,🛍️
+2026-03-16,Swiggy breakfast,160,Food & Dining,37.5,🍔
+2026-03-16,Ola cab to station,180,Transport,68.7,🚗
+2026-03-17,Amazon Prime renewal,1499,Entertainment,48.0,🎬
+2026-03-17,Apollo pharmacy visit,340,Health,66.0,💊
+2026-03-18,Blinkit grocery run,870,Food & Dining,66.8,🍔
+2026-03-18,IndiGo flight ticket,4200,Transport,73.8,🚗
+2026-03-19,YouTube Premium,189,Entertainment,67.2,🎬
+2026-03-19,Reliance Digital speaker,1899,Shopping,59.3,🛍️
+2026-03-20,Canteen lunch,90,Food & Dining,50.0,🍔
+2026-03-20,IRCTC train ticket,560,Transport,79.0,🚗
+2026-03-21,Hotstar subscription,299,Entertainment,61.6,🎬
+2026-03-21,Water bill,180,Utilities & Bills,81.4,💡
+2026-03-22,Meesho kurta order,499,Shopping,54.1,🛍️
+2026-03-22,Practo doctor appointment,400,Health,60.3,💊
+2026-03-23,Juice bar,80,Food & Dining,60.3,🍔
+2026-03-23,Parking fee,50,Transport,51.6,🚗
+2026-03-24,edX online course,1999,Education,75.0,📚
+2026-03-24,Gas cylinder booking,950,Utilities & Bills,55.6,💡
+2026-03-25,PVR cinema tickets,640,Entertainment,67.4,🎬
+2026-03-25,Treebo hotel stay,2100,Travel & Stays,85.2,✈️
